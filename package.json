@@ -1,0 +1,11 @@
+{
+  "name": "profiles_merge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Namesake \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/profiles_merge.js",
+  "scripts": {
+    "start": "node lib/profiles_merge.js"
+  }
+}
