@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs><clipPath id="tile"><rect width="1024" height="1024" rx="228"/></clipPath></defs>
+  <g clip-path="url(#tile)">
+  <rect width="1024" height="1024" fill="#FFB07C"/>
+  <g fill="#FFF3E8"><circle cx="388" cy="372" r="118"/><path d="M196 792c0-128 86-222 192-222s192 94 192 222v32H196z"/></g>
+  <g fill="#2A1408"><circle cx="636" cy="412" r="130"/><path d="M424 836c0-140 95-244 212-244s212 104 212 244v20H424z"/></g>
+  </g>
+</svg>
